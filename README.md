@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **fushigo17@gmail.com**
 
+<p align="center">
+  <img src="https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/fushigo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fushigo__" height="30" width="40" /></a>
