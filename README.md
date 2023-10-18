@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fushigo</h1>
 <h3 align="center">I am a Vocational High School Student taking software engineering study program</h3>
 
+<p align="center">
+  <img src="https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png">
+</p>
+
 <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
 
 - 🌱 I’m currently learning **ReactJs, NextJs**
@@ -25,9 +29,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **fushigo17@gmail.com**
 
-<p align="center">
-  <img src="https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png">
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/fushigo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fushigo__" height="30" width="40" /></a>
