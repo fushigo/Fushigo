@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fushigo" alt="fushigo" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJs, NextJs**
 
 - 👨‍💻 All of my projects are available at [rizkyandikas.my.id](rizkyandikas.my.id)
