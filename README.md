@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Fushigo</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=signika&size=30&pause=1000&random=false&width=435&lines=Frontend+Engineer+from+Indonesia" alt="Typing SVG" /></a>
 <h3 align="center">I am a Vocational High School Student taking software engineering study program</h3>
 <br>
 <p align="center">
