@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Fushigo</h1>
 <h3 align="center">I am a Vocational High School Student taking software engineering study program</h3>
-
+<br>
 <p align="center">
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Shiina_Murakami_Vuejs_Up_And_Running.png?raw=true">
 </p>
-
+<br>
 <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
 
 - 🌱 I’m currently learning **ReactJs, NextJs**
