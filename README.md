@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fushigo</h1>
 <h3 align="center">I am a Vocational High School Student taking software engineering study program</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fushigo&label=Profile%20views&color=0e75b6&style=flat" alt="fushigo" /> </p>
+<img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fushigo" alt="fushigo" /></a> </p>
 
