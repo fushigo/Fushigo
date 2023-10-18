@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I am a Vocational High School Student taking software engineering study program</h3>
 
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png">
+  <img src="[https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Shiina_Murakami_Vuejs_Up_And_Running.png?raw=true)">
 </p>
 
 <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
