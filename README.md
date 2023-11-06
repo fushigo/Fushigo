@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **ReactJs, NextJs**
 
-- 👨‍💻 All of my projects are available at [rizkyandikas.my.id](rizkyandikas.my.id)
+- 👨‍💻 All of my projects are available at [https://www.rizkyandikas.my.id](rizkyandikas.my.id)
 
 - 📫 How to reach me **fushigo17@gmail.com**
 
