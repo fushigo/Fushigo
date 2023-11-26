@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center">I am a Vocational High School Student taking software engineering study program</h3>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fushigo&label=Profile%20views&color=0e75b6&style=flat" alt="fushigo" /> </p>
+<br>
 <p align="center">
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Shiina_Murakami_Vuejs_Up_And_Running.png?raw=true">
 </p>
 <br>
 <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
 
-- 🌱 I’m currently learning **NextJs, Flutter**
+- 🌱 I’m currently learning **Next, Flutter, Prisma**
 
 - 👨‍💻 All of my projects are available at [rizkyandikas.my.id](https://www.rizkyandikas.my.id)
 
