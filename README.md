@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://instagram.com/fushigo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fushigo__" height="30" width="40" /></a>
 </p> -->
+<img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
 
 ### Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
