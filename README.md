@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Shiina_Murakami_Vuejs_Up_And_Running.png?raw=true">
 </p>
 <br>
-<!-- <!-- <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" /> -->
+<!-- <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" /> -->
 
 - 🌱 I’m currently learning **Next, Flutter, Prisma**
 
