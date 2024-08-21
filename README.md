@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fushigo&label=Profile%20views&color=0e75b6&style=flat" alt="fushigo" /> </p> -->
 <br> -->
 <p align="center">
-  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Shiina_Murakami_Vuejs_Up_And_Running.png?raw=true">
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Typescript/Morgan_le_Fay_Typescript_pros.png?raw=true">
 </p>
 <br>
 <!-- <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" /> -->
