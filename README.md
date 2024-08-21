@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center">I am a college student currently pursuing a Bachelor's degree in Informatics.</h3>
 <!-- <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fushigo&label=Profile%20views&color=0e75b6&style=flat" alt="fushigo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fushigo&label=Profile%20views&color=0e75b6&style=flat" alt="fushigo" /> </p> -->
 <br> -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Javascript/Shiina_Murakami_Vuejs_Up_And_Running.png?raw=true">
-</p> -->
+</p>
 <br>
-<!-- <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
+<!-- <!-- <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" /> -->
 
 - 🌱 I’m currently learning **Next, Flutter, Prisma**
 
