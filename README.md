@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=signika&weight=600&pause=1000&random=false&width=435&lines=Frontend+Engineer+from+Indonesia" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">I am a Vocational High School Student taking software engineering study program</h3>
+<h3 align="center">I am a college student currently pursuing a Bachelor's degree in Informatics.</h3>
 <!-- <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fushigo&label=Profile%20views&color=0e75b6&style=flat" alt="fushigo" /> </p>
 <br> -->
