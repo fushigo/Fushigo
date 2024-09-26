@@ -12,7 +12,7 @@
 <br>
 <!-- <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" /> -->
 
-- 🌱 I’m currently learning **Next, Flutter, Prisma**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [rizkyandikas.my.id](https://www.rizkyandikas.my.id)
 
