@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizky Andika Sukma</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=signika&weight=600&pause=1000&random=false&width=435&lines=Software+Engineer+from+Indonesia" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=signika&weight=600&pause=1000&random=false&width=435&lines=Junior+Developer+from+Indonesia" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">I am a college student currently pursuing a Bachelor's degree in Informatics.</h3>
 <!-- <br>
@@ -16,12 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [rizkyandikas.my.id](https://www.rizkyandikas.my.id)
 
-- 📫 How to reach me **fushigo17@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/fushigo__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fushigo__" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me **rizkyandikas.a27@gmail.com**
 
 <div align="center">
   <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
