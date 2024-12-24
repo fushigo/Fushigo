@@ -5,18 +5,7 @@
 <h3 align="center">I am a college student currently pursuing a Bachelor's degree in Informatics.</h3>
 <!-- <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fushigo&label=Profile%20views&color=0e75b6&style=flat" alt="fushigo" /> </p> -->
-<br> -->
-<p align="center">
-  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Typescript/Morgan_le_Fay_Typescript_pros.png?raw=true">
-</p>
 <br>
-<!-- <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" /> -->
-
-- 🌱 I’m currently learning **Nest.js**
-
-- 👨‍💻 All of my projects are available at [rizkyandikas.my.id](https://www.rizkyandikas.my.id)
-
-- 📫 How to reach me **rizkyandikas.a27@gmail.com**
 
 <div align="center">
   <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
@@ -58,11 +47,13 @@
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![DISCORD.JS](https://img.shields.io/badge/Discord.JS-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fushigo&show_icons=true&locale=en&layout=compact" alt="fushigo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fushigo&show_icons=true&locale=en" alt="fushigo" /></p>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fushigo&show_icons=true&locale=en&layout=compact" alt="fushigo" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fushigo&theme=default" alt="fushigo" />  
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fushigo&theme=default" alt="fushigo" /></p>
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fushigo&margin-w=15&margin-h=15" alt="fushigo" /></a> </p>
 
